@@ -1,3 +1,4 @@
+```python
 #!/usr/bin/env python3
 """
 Color-coded Notes App (Tkinter + SQLite)
@@ -371,3 +372,4 @@ class ColorNotesApp(tk.Tk):
 if __name__ == "__main__":
     app = ColorNotesApp()
     app.mainloop()
+```
