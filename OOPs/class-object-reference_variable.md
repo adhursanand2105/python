@@ -103,8 +103,7 @@ To call the method:
 s1.study()
 ```
 
->[!tip]
-Success
+> #008000 Output
 ```
 The student is studying.
 ```
