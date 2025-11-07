@@ -43,7 +43,9 @@ class ClassName:
 ```
 • `class`→ keyword used to define a class.
 • `ClassName`→ should follow PascalCase naming (e.g., `Student`, `Employee`).
+
 • **Variables**→ represent data or attributes of the class.
+
 • **Methods**→ represent actions or behavior.
 
 **Example**:
