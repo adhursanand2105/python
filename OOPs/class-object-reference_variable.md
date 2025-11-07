@@ -103,10 +103,10 @@ To call the method:
 s1.study()
 ```
 
->[!tip] Output
-```
-The student is studying.
-```
+> [!TIP] Output
+> ```
+> The student is studying.
+> ```
 
 **Summary**:
 
