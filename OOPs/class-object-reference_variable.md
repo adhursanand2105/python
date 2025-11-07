@@ -103,7 +103,7 @@ To call the method:
 s1.study()
 ```
 
-> [!success] Output
+>[!SUCCESS] Output
 ```
 The student is studying.
 ```
