@@ -28,7 +28,7 @@ ___
 ___
 1. **class**→ acts as a **template**/**blueprint**/**plan**/**model** or **design** for creating objects.
 ---
-##### 🏗️ Class Creation in Python
+#### 🏗️ Class Creation in Python
 
 A **class** is a **blueprint** or **template** used to create objects.
 It defines both the **properties (data)** and **behaviors (methods)** of the objects created from it.
@@ -59,7 +59,9 @@ class Student:
 ```
 Here:
 • `class Student:`→ defines a class named `Student`.
+
 • `def study(self)`→ defines a method (behavior) inside the class.
+
 • `self`→ refers to the object that will call this method.
 
 ___
@@ -85,7 +87,7 @@ print(id(s2))
 ```
 
 ___
-##### 📦 Object Creation in Python
+#### 📦 Object Creation in Python
 
 Once a class is defined, we create an **object** (instance) of it:
 ```python
