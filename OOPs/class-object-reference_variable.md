@@ -1,10 +1,10 @@
-##### 🧠 OOPS (Object-Oriented Programming)
+### 🧠 OOPS (Object-Oriented Programming)
 
 OOP — Object-Oriented Programming — is one of the most widely used and powerful programming paradigms.
 
 ---
 
-##### ⚙️ POP (Procedure-Oriented Programming)
+### ⚙️ POP (Procedure-Oriented Programming)
 
 In **POP (Procedure-Oriented Programming)**,
 the total activity of a program is divided into multiple **functions**,
@@ -15,7 +15,7 @@ It is **old-style** and suitable only for **small-scale projects**.
 
 ---
 
-##### 🧩 OOP (Object-Oriented Programming)
+### 🧩 OOP (Object-Oriented Programming)
 
 In **OOP**, programming revolves around **real-world entities called Objects**.
 Objects represent things that have **properties (data)** and **behavior/method (actions)**.
@@ -28,7 +28,7 @@ ___
 ___
 1. **class**→ acts as a **template**/**blueprint**/**plan**/**model** or **design** for creating objects.
 ---
-#### 🏗️ Class Creation in Python
+##### 🏗️ Class Creation in Python
 
 A **class** is a **blueprint** or **template** used to create objects.
 It defines both the **properties (data)** and **behaviors (methods)** of the objects created from it.
@@ -85,7 +85,7 @@ print(id(s2))
 ```
 
 ___
-#### 📦 Object Creation in Python
+##### 📦 Object Creation in Python
 
 Once a class is defined, we create an **object** (instance) of it:
 ```python
