@@ -103,7 +103,7 @@ To call the method:
 s1.study()
 ```
 
-> #008000 Output
+> `#008000` Output
 ```
 The student is studying.
 ```
