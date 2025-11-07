@@ -58,6 +58,7 @@ class Student:
          print("The student is studying.")
 ```
 Here:
+
 • `class Student:`→ defines a class named `Student`.
 
 • `def study(self)`→ defines a method (behavior) inside the class.
