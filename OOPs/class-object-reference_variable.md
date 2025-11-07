@@ -76,7 +76,7 @@ print(id(s1))
 print(id(s2))
 ```
 
->[!success] Output
+>[!tip] Output
 ```
 140714033498544
 140714033499072
@@ -103,7 +103,7 @@ To call the method:
 s1.study()
 ```
 
->[!SUCCESS] Output
+>[!tip] Output
 ```
 The student is studying.
 ```
